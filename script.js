@@ -17,3 +17,5 @@ let inputEventListener = () =>{
 // Event Listeners
 DOMselectors.color1.addEventListener("input", inputEventListener);
 DOMselectors.color2.addEventListener("input", inputEventListener);
+
+console.log('hello there, this is a new change.');
